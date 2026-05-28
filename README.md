@@ -1,1 +1,1 @@
-# hype-sol-dashboard-
+# hype-sol-dashboard
